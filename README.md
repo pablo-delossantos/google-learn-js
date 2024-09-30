@@ -1,2 +1,2 @@
-# google-learn-js
-Curso de JavaScript de web.dev
+# Googlel Learn JavaScript
+Curso de JavaScript de [web.dev](https://web.dev/learn/javascript) 
